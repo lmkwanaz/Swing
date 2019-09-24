@@ -1,0 +1,5 @@
+Blackpanther,Lwandile,4,100,60,40,Bomb,Red cape
+Hulk,Ndisi,0,100,30,40,Bomb,Leather jacket
+SuperMan,Syabonga,0,100,33,45,Bomb,Gold armor
+Badman,Mkwa,0,100,40,20,Sword,Leather jacket
+Badman,Mkwa,0,100,40,20,Sword,Gold armor
